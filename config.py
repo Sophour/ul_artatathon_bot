@@ -1,2 +1,2 @@
-TOKEN = 'No token for ya'
+TOKEN = 'no token for ya'
 
